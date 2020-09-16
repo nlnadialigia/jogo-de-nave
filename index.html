@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo de Naves</title>
+    <link rel="stylesheet" href="/styles/style.css">
+    <link rel="stylesheet" href="/styles/animation.css">
+</head>
+
+<body>
+    <div id="container">
+
+        <div id="fundoGame">
+
+            <div id="inicio">
+                <h1> Resgate </h1>
+                <p>Utilize a tecla PAGE UP para movimentar o helicóptero para cima, a tecla PAGE DOWN para movimentar o helicóptero para baixo e a tecla BACKSPACE para atirar.</p>
+                <p onclick="start()"> Clique aqui para iniciar!! </p>
+            </div>
+
+        </div>
+
+    </div>
+
+    <audio src="sons/som.mp3" preload="auto" id="somDisparo"></audio>
+    <audio src="sons/explosao.mp3" preload="auto" id="somExplosao"></audio>
+    <audio src="sons/musica_fundo.mp3" preload="auto" id="musica"></audio>
+    <audio src="sons/gameover.mp3" preload="auto" id="somGameover"></audio>
+    <audio src="sons/perdido.mp3" preload="auto" id="somPerdido"></audio>	
+    <audio src="sons/resgate.mp3" preload="auto" id="somResgate"></audio>
+
+    <script src="/js/jquery-1.11.1.min.js"></script>
+    <script src="/js/jquery-collision.min.js"></script>
+    <script src="/js/script.js"></script>
+</body>
+
+</html>
