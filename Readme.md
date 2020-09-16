@@ -1,7 +1,7 @@
 <h1 align="center">Jogo de naves</h1>
 
 <p align="center">
-  <img src="">
+  <img src="imgs/game.png">
 </p>
 
 
@@ -25,7 +25,7 @@ ___
 ___
 
 <p align="center">
-  <img src="" width="400">
+  <img src="imgs/game-over.png" width="400">
 </p>
 
 <br>
