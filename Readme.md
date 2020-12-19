@@ -33,7 +33,9 @@ ___
 
 ## :information_source: Sobre
 
-Construção do primeiro jogo de naves no Bootcamp da Digial Innovation One
+Construção do primeiro jogo de naves no Bootcamp da Digial Innovation One.
+
+[Clique aqui para jogar!](https://nl-jogo-da-nave.netlify.app)
 
 <br>
 <br>
